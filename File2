@@ -1,2 +1,4 @@
 CPU
 Match Shared CPU, Dedicated CPU, or High Memory compute plans to your applications’ needs and budget.
+Master ----> Feature---->Deployment---> Projects + Code -->Hotfix---> Small changes + New branch --> Merge to depolyment --> patch ---> Fix Again it will be merge to main branch --> Again it will be delete 
+developer --> Commit ---> Branch ---> Pull ----> New updates in code ---> changes added as per the release note --> Merge ----Master
